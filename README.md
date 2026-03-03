@@ -25,7 +25,7 @@ O projeto contém exemplos práticos de:
 
 ## ▶️ Exemplo de execução
 
-Digite o primeiro número: 10  
+Digite o primeiro número: 10    
 Digite o segundo número: 5  
 
 Resultados:  
@@ -33,3 +33,4 @@ soma: 15
 subtracao: 5  
 multiplicacao: 50  
 divisao: 2.0
+Resto de divisão: 1.0
